@@ -1,5 +1,3 @@
-namespace ZgjedhjetApi.Enums;
-
 public enum Kategoria
 {
     TeGjitha,
